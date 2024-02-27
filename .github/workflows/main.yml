@@ -1,0 +1,28 @@
+name: Build DocFX Documentation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 8.x # Specify the .NET version
+
+    - name: Install DocFX Tool
+      run: dotnet tool update -g docfx
+
+    - name: Add .NET Tools to PATH
+      run: echo "$HOME/.dotnet/tools" >> $GITHUB_PATH
+
+    - name: Build Documentation with DocFX
+      run: docfx ${{ github.workspace }}/<docfx-project-path>/docfx.json
