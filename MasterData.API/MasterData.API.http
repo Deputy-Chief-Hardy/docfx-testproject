@@ -1,7 +1,0 @@
-@MasterData.API_HostAddress = http://localhost:5047
-#@MasterData.API_HostAddress = https://localhost:7067
-
-GET {{MasterData.API_HostAddress}}/api/v1/masterdata/assemblylines
-Accept: application/json
-
-###
