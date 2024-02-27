@@ -21,7 +21,7 @@ jobs:
   publish-docs:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ https://deputy-chief-hardy.github.io/docfx-testproject/ }}
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
