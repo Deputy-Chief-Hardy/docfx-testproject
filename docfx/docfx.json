@@ -9,8 +9,7 @@
           ]
         }
       ],
-      "dest": "api",
-      "allowCompilationError": true
+      "dest": "api"
     }
   ],
   "build": {
