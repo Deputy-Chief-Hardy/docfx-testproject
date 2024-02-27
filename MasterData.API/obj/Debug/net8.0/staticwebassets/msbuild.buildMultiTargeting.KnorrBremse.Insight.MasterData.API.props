@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KnorrBremse.Insight.MasterData.API.props" />
+</Project>

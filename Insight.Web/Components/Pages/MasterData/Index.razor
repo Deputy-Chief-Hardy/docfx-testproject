@@ -1,0 +1,51 @@
+﻿@page "/MasterData/Index"
+@using KnorrBremse.Insight.MasterData.ApiClient
+@using KnorrBremse.Insight.MasterData.API.Model;
+
+@inject MasterDataClient MasterDataClient;
+
+<PageTitle>Master Data</PageTitle>
+
+<h1>Master Data</h1>
+
+<h2>
+    <NavLink class="nav-link" href="MasterData/AssemblyLines">
+        <!-- <a href="https://www.freepik.com/icon/industry_5277441">Icon by Freepik</a> -->
+        <img src="/media/assembly_line_color.png" /> 
+        Assembly Lines (@assemblyLinesCount)
+    </NavLink>
+</h2>
+
+<h2>
+    <NavLink class="nav-link" href="MasterData/Stations">
+        <!-- <a href="https://www.freepik.com/icon/technology_5277422">Icon by Freepik</a> -->
+        <img src="/media/station_color.png" />
+        Stations (@stationsCount)
+    </NavLink>
+</h2>
+
+<h2>
+    <NavLink class="nav-link" href="MasterData/Plcs">
+        <!-- <a href="https://www.freepik.com/icon/thermostat_9875481">Icon by Maan Icons</a> -->
+        <img src="/media/plc_color.png" />
+        PLCs (@plcsCount)
+    </NavLink>
+</h2>
+
+@code {
+    private int assemblyLinesCount = 0;
+    private int stationsCount = 0;
+    private int plcsCount = 0;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            assemblyLinesCount = await MasterDataClient.AssemblyLinesCountAsync();
+        }
+        catch (Exception)
+        {
+
+        }
+    }
+}

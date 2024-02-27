@@ -1,0 +1,15 @@
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\bin\Debug\net8.0\KnorrBremse.Insight.MasterData.ApiClient.deps.json
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\bin\Debug\net8.0\KnorrBremse.Insight.MasterData.ApiClient.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\bin\Debug\net8.0\KnorrBremse.Insight.MasterData.ApiClient.pdb
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\bin\Debug\net8.0\KnorrBremse.Insight.MasterData.API.Model.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\bin\Debug\net8.0\KnorrBremse.Insight.MasterData.API.Model.pdb
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterData.ApiClient.csproj.AssemblyReference.cache
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterData.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterData.ApiClient.AssemblyInfoInputs.cache
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterData.ApiClient.AssemblyInfo.cs
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterData.ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\MasterDa.8F36E215.Up2Date
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\KnorrBremse.Insight.MasterData.ApiClient.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\refint\KnorrBremse.Insight.MasterData.ApiClient.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\KnorrBremse.Insight.MasterData.ApiClient.pdb
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\MasterData.ApiClient\obj\Debug\net8.0\ref\KnorrBremse.Insight.MasterData.ApiClient.dll

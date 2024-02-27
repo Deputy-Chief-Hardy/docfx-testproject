@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InsightWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InsightWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\media\\assembly_line_color.png",
+      "PackagePath": "staticwebassets\\media\\assembly_line_color.png"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\media\\industry-trends-header_384x143_1920w.jpg",
+      "PackagePath": "staticwebassets\\media\\industry-trends-header_384x143_1920w.jpg"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\media\\knorr-bremse-logo-blue-square.svg",
+      "PackagePath": "staticwebassets\\media\\knorr-bremse-logo-blue-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\media\\plc_color.png",
+      "PackagePath": "staticwebassets\\media\\plc_color.png"
+    },
+    {
+      "Id": "C:\\Users\\stockl\\Desktop\\docfx-desktop-test-2\\src\\KnorrBremseInsight\\Insight.Web\\wwwroot\\media\\station_color.png",
+      "PackagePath": "staticwebassets\\media\\station_color.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InsightWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InsightWeb.props",
+      "PackagePath": "build\\InsightWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InsightWeb.props",
+      "PackagePath": "buildMultiTargeting\\InsightWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InsightWeb.props",
+      "PackagePath": "buildTransitive\\InsightWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

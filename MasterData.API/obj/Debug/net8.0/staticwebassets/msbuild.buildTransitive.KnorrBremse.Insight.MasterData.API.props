@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KnorrBremse.Insight.MasterData.API.props" />
+</Project>
