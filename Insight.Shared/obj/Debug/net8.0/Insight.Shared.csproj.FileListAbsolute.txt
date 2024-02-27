@@ -1,0 +1,11 @@
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\bin\Debug\net8.0\KnorrBremse.Insight.Insight.Shared.deps.json
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\bin\Debug\net8.0\KnorrBremse.Insight.Insight.Shared.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\bin\Debug\net8.0\KnorrBremse.Insight.Insight.Shared.pdb
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\Insight.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\Insight.Shared.AssemblyInfoInputs.cache
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\Insight.Shared.AssemblyInfo.cs
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\Insight.Shared.csproj.CoreCompileInputs.cache
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\KnorrBremse.Insight.Insight.Shared.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\refint\KnorrBremse.Insight.Insight.Shared.dll
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\KnorrBremse.Insight.Insight.Shared.pdb
+C:\Users\stockl\Desktop\docfx-desktop-test-2\src\KnorrBremseInsight\Insight.Shared\obj\Debug\net8.0\ref\KnorrBremse.Insight.Insight.Shared.dll
