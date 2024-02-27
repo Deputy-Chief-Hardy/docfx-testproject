@@ -3,9 +3,9 @@
     {
       "src": [
         {
-          "src": "./",
+          "src": "../",
           "files": [
-            "../IronLua.sln"
+            "IronLua.sln"
           ]
         }
       ],
