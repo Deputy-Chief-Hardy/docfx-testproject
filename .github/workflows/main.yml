@@ -17,6 +17,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.DOCFX_SECRET }}
 
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v4
@@ -40,4 +42,4 @@ jobs:
         git config --global user.name "LS"
         git add test/.gitkeep
         git commit -m "Add 'test' folder with .gitkeep"
-        git push
+        git push https://${{ secrets.DOCFX_SECRET }}@github.com/Deputy-Chief-Hardy/docfx-testproject.git HEAD:${GITHUB_REF#refs/heads/}
