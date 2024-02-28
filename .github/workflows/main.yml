@@ -28,4 +28,11 @@ jobs:
       # run: docfx ${{ github.workspace }}/docfx/docfx.json
 
     - name: Create new folder
-      run: mkdir ${{ github.workspace }}/test
+      run: |
+        mkdir -p test
+        touch test/.gitkeep
+        git config --global user.email "stocker.leonhard@gmail.com"
+        git config --global user.name "LS"
+        git add test/.gitkeep
+        git commit -m "Add 'test' folder with .gitkeep"
+        git push
