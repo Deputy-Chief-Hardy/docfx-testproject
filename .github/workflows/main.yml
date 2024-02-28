@@ -28,4 +28,4 @@ jobs:
       # run: docfx ${{ github.workspace }}/docfx/docfx.json
 
     - name: Create new folder
-      run: mkdir test
+      run: mkdir ${{ github.workspace }}/test
